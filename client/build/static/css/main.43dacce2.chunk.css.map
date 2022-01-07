@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/main/main.module.css"],"names":[],"mappings":"AAAA,kBACI,YAAa,CACb,cAAe,CACf,2BAA4B,CAC5B,sBAAuB,CACvB,YACJ","file":"main.43dacce2.chunk.css","sourcesContent":[".Card {\n    display: flex;\n    flex-wrap: wrap;\n    align-content: space-between;\n    justify-content: center;\n    padding: 10px;\n}\n"]}
