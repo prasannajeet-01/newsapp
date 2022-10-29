@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+//schema
 const Schema = mongoose.Schema;
 
 const newsSchema = new Schema({
